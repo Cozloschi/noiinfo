@@ -1,0 +1,17 @@
+Options +FollowSymlinks
+RewriteEngine on
+RewriteRule ^admin/([a-z_]+)/([a-z_]+) /index.php?route=admin&user=$1&action=$2 [NC]
+RewriteRule ^admin/([a-z_]+)/ /index.php?route=admin&user=$1&action=pages [NC]
+RewriteRule ^requests /index.php?route=action&%{QUERY_STRING} [NC]
+
+
+
+RewriteRule ^page/([0-9]+)/([a-z_]+) /index.php?route=page&user=$1&action=$2 [NC]
+RewriteRule ^page/([0-9]+) /index.php?route=page&user=$1&action=index [NC]
+
+
+
+RewriteRule ^view_thumb/([0-9a-zA-z-_]+) /engine/templates/$1/thumb.jpg [NC]
+
+
+RewriteRule ^getfile/([0-9]+)/([^/]+) /engine/data/users_files/$1/$2 [NC]

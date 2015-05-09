@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Serialization demo</title>
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.2.0/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="../src/gridstack.css"/>
+
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.0/jquery-ui.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/lodash.js/3.5.0/lodash.min.js"></script>
+    <script src="../src/gridstack.js"></script>
+
+    <style type="text/css">
+        .grid-stack {
+            background: lightgoldenrodyellow;
+        }
+
+        .grid-stack-item-content {
+            color: #2c3e50;
+            text-align: center;
+            background-color: #18bc9c;
+        }
+		
+		
+		span.title_grid{height:100%;display:block;text-align:center;padding-top:10px;}
+		
+		div.holder_msg{width:400px;height:200px;position:fixed;background-color:#ffffff;border:1px solid #e0e0e0;left:50%;margin-left:-200px;top:50%;margin-top:-100px;padding:10px;box-sizing:border-box;z-index:100;display:none;}
+        div.holder_msg h3{font-size:20px;margin:0px;margin:5px 0px 20px 0px;}
+		
+		div.background{position:fixed;margin:0px;width:100%;height:100%;display:block;z-index:90;background-color:rgba(00,00,00,0.5);top:0px;left:0px;display:none}
+	
+	</style>
+</head>
+<body>
+
+    
+	<div class='holder_msg'>
+	 <h3>Please select a module to add</h3>
+	 
+	 <ul class='module_list_grid'>
+	  <li data-module='1'>Module1</li>
+	  <li data-module='2'>Module2</li>
+	  <li data-module='3'>Module3</li>
+	 
+	 </ul>
+	
+	</div>
+	
+	<div class='background'> </div>
+
+    <script type="text/javascript">
+        $(function () {
+		    
+			var $clicked;
+			//on click grid
+		    $(document).on('click','div.grid-stack-item',function(){
+			 
+			  $('div.holder_msg,div.background').fadeIn('fast');
+			  $clicked = $(this);
+			 
+			});
+			
+			//on click module
+		    $(document).on('click','ul.module_list_grid li',function(){
+			  
+			  $clicked.attr('module-id',$(this).attr('data-module'));
+			  
+			  $clicked.find('span').text($(this).text());
+			  
+			  $('div.holder_msg,div.background').fadeOut('fast');
+			 
+			});
+		
+            var options = {
+			         cell_height: 80,
+					 min_width:500
+					 //draggable:{handle: '.non_existent', scroll: false, appendTo: 'body'},
+					 //resizable:{autoHide: false, handles: 'se'}
+					 
+            };
+            $('.grid-stack').gridstack(options);
+
+            new function () {
+                this.serialized_data = [
+                    {x: 0, y: 0, width: 2, height: 2},
+                    {x: 3, y: 1, width: 1, height: 2},
+                    {x: 4, y: 1, width: 1, height: 1},
+                    {x: 2, y: 3, width: 3, height: 1},
+                    {x: 1, y: 4, width: 1, height: 1},
+                    {x: 1, y: 3, width: 1, height: 1},
+                    {x: 2, y: 4, width: 1, height: 1},
+                    {x: 2, y: 5, width: 1, height: 1}
+                ];
+
+                this.grid = $('.grid-stack').data('gridstack');
+
+                this.load_grid = function () {
+                    this.grid.remove_all();
+                    var items = GridStackUI.Utils.sort(this.serialized_data);
+                    _.each(items, function (node) {
+                        this.grid.add_widget($('<div><div class="grid-stack-item-content" ><span class="title_grid"> </span></div><div/>'),
+                            node.x, node.y, node.width, node.height);
+                    }, this);
+                }.bind(this);
+
+                this.save_grid = function () {
+                    this.serialized_data = _.map($('.grid-stack > .grid-stack-item:visible'), function (el) {
+                        el = $(el);
+                        var node = el.data('_gridstack_node');
+                        return {
+                            x: node.x,
+                            y: node.y,
+                            width: node.width,
+                            height: node.height,
+							module: el.attr('module-id')
+                        };
+                    }, this);
+                    $('#saved-data').val(JSON.stringify(this.serialized_data, null, '    '));
+                }.bind(this);
+
+                this.clear_grid = function () {
+                    this.grid.remove_all();
+                }.bind(this);
+				
+				this.remove_widget = function($el){
+				   this.grid.remove_widget($el,$el.data('_gridstack_node'));
+				}.bind(this);
+
+                $('#save-grid').click(this.save_grid);
+                $('#load-grid').click(this.load_grid);
+                $('#clear-grid').click(this.clear_grid);
+               
+				
+                this.load_grid();
+            };
+        });
+    </script>
+</body>
+</html>

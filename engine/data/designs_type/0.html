@@ -1,0 +1,16 @@
+<script type='text/javascript'>
+$(function() {
+    $( "ul.module_list" ).sortable({
+      connectWith: "ul.holder_modules.center"
+    }).disableSelection();    
+   
+    $( "ul.holder_modules" ).sortable({
+      connectWith: "ul.module_list"
+    }).disableSelection();    
+  });
+</script>
+					<ul class='holder_modules center'>
+					
+					
+					
+					</ul>

@@ -1,0 +1,1341 @@
+===================
+ Mysql Error : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'index,id,title,modules,description,keywords from pages where id = '8' limit 1' at line 1
+28-01-2015
+
+===================
+ Mysql Error : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'index) values('1','Another page','page description','keyword1,keyword2,keyword3'' at line 1
+30-01-2015
+
+===================
+ Mysql Error : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'index) values('1','Another page','page description','keyword1,keyword2,keyword3'' at line 1
+30-01-2015
+
+===================
+ Mysql Error : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'index) values('1','Another page','page description','keyword1,keyword2,keyword3'' at line 1
+30-01-2015
+
+===================
+ Mysql Error : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'index) values('1','Test','description','test,test,test','test','0')' at line 1
+30-01-2015
+
+===================
+ Mysql Error : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'index) values('1','Test','description','test,test,test','test','0')' at line 1
+30-01-2015
+Array
+(
+    [route] => action
+)
+
+===================
+ Mysql Error : Unknown column 'visible' in 'field list'
+30-01-2015
+Array
+(
+    [route] => admin
+    [user] => cozy_junior
+    [action] => edit_menu
+)
+
+===================
+ Mysql Error : Unknown column 'visible' in 'field list'
+30-01-2015
+Array
+(
+    [route] => admin
+    [user] => cozy_junior
+    [action] => edit_menu
+)
+
+===================
+ Mysql Error : Unknown column 'visible' in 'field list'
+30-01-2015
+Array
+(
+    [route] => admin
+    [user] => cozy_junior
+    [action] => edit_menu
+)
+
+===================
+ Mysql Error : Unknown column 'visible' in 'field list'
+30-01-2015
+Array
+(
+    [route] => admin
+    [user] => cozy_junior
+    [action] => edit_menu
+)
+
+===================
+ Mysql Error : Unknown column 'visible' in 'field list'
+30-01-2015
+Array
+(
+    [route] => admin
+    [user] => cozy_junior
+    [action] => edit_menu
+)
+
+===================
+ Mysql Error : Unknown column 'visible' in 'field list'
+30-01-2015
+Array
+(
+    [route] => admin
+    [user] => cozy_junior
+    [action] => edit_menu
+)
+
+===================
+ Mysql Error : Unknown column 'visible' in 'field list'
+30-01-2015
+Array
+(
+    [route] => admin
+    [user] => cozy_junior
+    [action] => edit_menu
+)
+
+===================
+ Mysql Error : Unknown column 'visible' in 'field list'
+30-01-2015
+Array
+(
+    [route] => admin
+    [user] => cozy_junior
+    [action] => edit_menu
+)
+
+===================
+ Mysql Error : Unknown column 'visible' in 'field list'
+30-01-2015
+Array
+(
+    [route] => admin
+    [user] => cozy_junior
+    [action] => edit_menu
+)
+
+===================
+ Mysql Error : Unknown column 'visible' in 'field list'
+30-01-2015
+Array
+(
+    [route] => admin
+    [user] => cozy_junior
+    [action] => edit_menu
+)
+
+===================
+ Mysql Error : Unknown column 'visible' in 'field list'
+30-01-2015
+Array
+(
+    [route] => admin
+    [user] => cozy_junior
+    [action] => edit_menu
+)
+
+===================
+ Mysql Error : Unknown column 'visible' in 'field list'
+30-01-2015
+Array
+(
+    [route] => admin
+    [user] => cozy_junior
+    [action] => edit_menu
+)
+
+===================
+ Mysql Error : Unknown column 'visible' in 'field list'
+30-01-2015
+Array
+(
+    [route] => admin
+    [user] => cozy_junior
+    [action] => edit_menu
+)
+
+===================
+ Mysql Error : Unknown column 'visible' in 'field list'
+30-01-2015
+Array
+(
+    [route] => admin
+    [user] => cozy_junior
+    [action] => edit_menu
+)
+
+===================
+ Mysql Error : Unknown column 'visible' in 'field list'
+30-01-2015
+Array
+(
+    [route] => admin
+    [user] => cozy_junior
+    [action] => edit_menu
+)
+
+===================
+ Mysql Error : Unknown column 'visible' in 'field list'
+30-01-2015
+Array
+(
+    [route] => admin
+    [user] => cozy_junior
+    [action] => edit_menu
+)
+
+===================
+ Mysql Error : Unknown column 'visible' in 'field list'
+30-01-2015
+Array
+(
+    [route] => admin
+    [user] => cozy_junior
+    [action] => edit_menu
+)
+
+===================
+ Mysql Error : Unknown column 'visible' in 'field list'
+30-01-2015
+Array
+(
+    [route] => admin
+    [user] => cozy_junior
+    [action] => edit_menu
+)
+
+===================
+ Mysql Error : Unknown column 'visible' in 'field list'
+30-01-2015
+Array
+(
+    [route] => admin
+    [user] => cozy_junior
+    [action] => edit_menu
+)
+
+===================
+ Mysql Error : Unknown column 'visible' in 'field list'
+30-01-2015
+Array
+(
+    [route] => admin
+    [user] => cozy_junior
+    [action] => edit_menu
+)
+
+===================
+ Mysql Error : Unknown column 'visible' in 'field list'
+30-01-2015
+Array
+(
+    [route] => admin
+    [user] => cozy_junior
+    [action] => edit_menu
+)
+
+===================
+ Mysql Error : Unknown column 'visible' in 'field list'
+30-01-2015
+Array
+(
+    [route] => admin
+    [user] => cozy_junior
+    [action] => edit_menu
+)
+
+===================
+ Mysql Error : Unknown column 'visible' in 'field list'
+30-01-2015
+Array
+(
+    [route] => admin
+    [user] => cozy_junior
+    [action] => edit_menu
+)
+
+===================
+ Mysql Error : Unknown column 'visible' in 'field list'
+30-01-2015
+Array
+(
+    [route] => admin
+    [user] => cozy_junior
+    [action] => edit_menu
+)
+
+===================
+ Mysql Error : Unknown column 'visible' in 'field list'
+30-01-2015
+Array
+(
+    [route] => admin
+    [user] => cozy_junior
+    [action] => edit_menu
+)
+
+===================
+ Mysql Error : Unknown column 'account' in 'where clause'
+30-01-2015
+Array
+(
+    [route] => admin
+    [user] => cozy_junior
+    [action] => edit_menu
+)
+
+===================
+ Mysql Error : Unknown column 'accout' in 'where clause'
+01-02-2015
+Array
+(
+    [route] => action
+    [action] => select_preinstalled_module
+    [token] => 1e7b0fa4c4733c520c4f803e1b34f855
+    [id] => 
+)
+
+===================
+ Mysql Error : Unknown column 'accout' in 'where clause'
+01-02-2015
+Array
+(
+    [route] => action
+    [action] => select_preinstalled_module
+    [token] => 1e7b0fa4c4733c520c4f803e1b34f855
+    [id] => 13
+)
+
+===================
+ Mysql Error : Unknown column 'type' in 'where clause'
+02-02-2015
+Array
+(
+    [route] => action
+)
+
+===================
+ Mysql Error : Unknown column 'type' in 'where clause'
+02-02-2015
+Array
+(
+    [route] => action
+)
+
+===================
+ Mysql Error : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'group set settings = '{\"modules\":{\"10\":0,\"11\":1,\"12\":1,\"13\":0}}', name' at line 1
+04-02-2015
+Array
+(
+    [route] => action
+)
+
+===================
+ Mysql Error : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'group from users where id = '5' and rank ='1' and parent = '1' limit 1' at line 1
+04-02-2015
+Array
+(
+    [route] => action
+    [action] => show_edit
+    [id] => 5
+    [token] => d19feb6f3aac11753d06e08afb605387
+)
+
+===================
+ Mysql Error : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'group from users where id = '5' and rank ='1' and parent = '1' limit 1' at line 1
+04-02-2015
+Array
+(
+    [route] => action
+    [action] => show_edit
+    [id] => 5
+    [token] => 4bcc5702914584fc25d4dc6025b6e3f6
+)
+
+===================
+ Mysql Error : Unknown column 'settings' in 'field list'
+04-02-2015
+Array
+(
+    [route] => admin
+    [user] => cozy_junior
+    [action] => account_settings
+)
+
+===================
+ Mysql Error : Unknown column 'settings' in 'field list'
+04-02-2015
+Array
+(
+    [route] => admin
+    [user] => cozy_junior
+    [action] => account_settings
+)
+
+===================
+ Mysql Error : Unknown column 'settings' in 'field list'
+04-02-2015
+Array
+(
+    [route] => action
+    [email] => cozy_junior@yahoo.com
+    [pass] => modelismo
+    [action] => login_admin
+    [token] => 4196ccfa7f45ba9ecc8a632cd82a879f
+)
+
+===================
+ Mysql Error : Unknown column 'settings' in 'field list'
+04-02-2015
+Array
+(
+    [route] => action
+    [email] => cozy_junior@yahoo.com
+    [pass] => modelismo
+    [action] => login_admin
+    [token] => 77bf2862f411b65583619be2d778a1d3
+)
+
+===================
+ Mysql Error : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+04-02-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => index
+)
+
+===================
+ Mysql Error : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+04-02-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => index
+)
+
+===================
+ Mysql Error : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'group from users where `email` = 'cozy_junior2@yahoo.com' AND `password` = 'b21z' at line 1
+04-02-2015
+Array
+(
+    [route] => action
+    [email] => cozy_junior2@yahoo.com
+    [pass] => modelismo
+    [action] => login_admin
+    [token] => cac1898e244a3635e34f45be7b857139
+)
+
+===================
+ Mysql Error : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'group from users where `email` = 'cozy_junior@yahoo.com' AND `password` = 'b21za' at line 1
+04-02-2015
+Array
+(
+    [route] => action
+    [email] => cozy_junior@yahoo.com
+    [pass] => modelismo
+    [action] => login_admin
+    [token] => 503c9f990db60b016873317dc6e935ec
+)
+
+===================
+ Mysql Error : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+05-02-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => index
+)
+
+===================
+ Mysql Error : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"left":{"0":"10"},"right":{},"center":{"0":"13","1":"11","2":"12"}})' at line 1
+09-02-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => index
+)
+
+===================
+ Mysql Error : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"left":{"0":"10"},"right":{},"center":{"0":"13","1":"11","2":"12"}})' at line 1
+09-02-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => index
+)
+
+===================
+ Mysql Error : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"left":{"0":"10"},"right":{},"center":{"0":"13","1":"11","2":"12"}})' at line 1
+09-02-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => index
+)
+
+===================
+ Mysql Error : Unknown column 'Array' in 'where clause'
+09-02-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => index
+)
+
+===================
+ Mysql Error : Unknown column 'design.file' in 'field list'
+10-02-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => index
+)
+
+===================
+ Mysql Error : Unknown column 'design.file' in 'field list'
+10-02-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => index
+)
+
+===================
+ Mysql Error : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where pages.id = '20' limit 1' at line 1
+15-02-2015
+Array
+(
+    [route] => action
+    [token] => 0732106097b60c960e5c1b8a2f111d41
+    [action] => select_page
+    [id] => 20
+    [user] => 1
+)
+
+===================
+ Mysql Error : Unknown column 'pages.designs' in 'on clause'
+15-02-2015
+Array
+(
+    [route] => action
+    [token] => c51c1bd9955e972bf4441529b3bd0201
+    [action] => select_page
+    [id] => 20
+    [user] => 1
+)
+
+===================
+ Mysql Error : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+16-02-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => index
+)
+
+===================
+ Mysql Error : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+16-02-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => index
+)
+
+===================
+ Mysql Error : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'group set settings = '{"modules":{"10":0,"11":1,"12":1,"13":1,"15":0}}', name = ' at line 1
+16-02-2015
+Array
+(
+    [route] => action
+    [user] => 1
+)
+
+===================
+ Mysql Error : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'group set settings = '{"modules":{"10":0,"11":1,"12":1,"13":0,"15":0}}', name = ' at line 1
+16-02-2015
+Array
+(
+    [route] => action
+    [user] => 1
+)
+
+===================
+ Mysql Error : Unknown column 'pages.created' in 'field list'
+17-02-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => index
+)
+
+===================
+ Mysql Error : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'index from pages where user_id = '1'' at line 1
+24-02-2015
+Array
+(
+    [route] => admin
+    [user] => cozy_junior
+    [action] => pages
+)
+
+===================
+ Mysql Error : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+03-03-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => index
+)
+
+===================
+ Mysql Error : Unknown column 'main_modules' in 'field list'
+07-03-2015
+Array
+(
+    [route] => action
+    [action] => select_preinstalled_module
+    [token] => 339a5f3f4bb8963192b52450dd6c22eb
+    [id] => 13
+    [update] => 1
+    [user] => 1
+)
+
+===================
+ Mysql Error : Unknown column 'main_modules' in 'field list'
+07-03-2015
+Array
+(
+    [route] => action
+    [action] => select_preinstalled_module
+    [token] => a98a22954db83a20599e22d73969a734
+    [id] => 13
+    [update] => 1
+    [user] => 1
+)
+
+===================
+ Mysql Error : Unknown column 't' in 'field list'
+14-03-2015
+Array
+(
+    [route] => action
+    [user] => 1
+)
+
+===================
+ Mysql Error : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+14-03-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => index
+)
+
+===================
+ Mysql Error : Unknown column 'designs.t' in 'field list'
+14-03-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => index
+)
+
+===================
+ Mysql Error : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+14-03-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => index
+)
+
+===================
+ Mysql Error : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+14-03-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => index
+)
+
+===================
+ Mysql Error : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+14-03-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => index
+)
+
+===================
+ Mysql Error : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+14-03-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => index
+)
+
+===================
+ Mysql Error : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+14-03-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => index
+)
+
+===================
+ Mysql Error : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+14-03-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => index
+)
+
+===================
+ Mysql Error : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+14-03-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => index
+)
+
+===================
+ Mysql Error : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+14-03-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => index
+)
+
+===================
+ Mysql Error : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+14-03-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => index
+)
+
+===================
+ Mysql Error : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+14-03-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => index
+)
+
+===================
+ Mysql Error : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+14-03-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => index
+)
+
+===================
+ Mysql Error : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+14-03-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => index
+)
+
+===================
+ Mysql Error : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+14-03-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => index
+)
+
+===================
+ Mysql Error : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+14-03-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => index
+)
+
+===================
+ Mysql Error : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+14-03-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => index
+)
+
+===================
+ Mysql Error : Unknown column 't' in 'field list'
+16-03-2015
+Array
+(
+    [route] => admin
+    [user] => cozy_junior
+    [action] => pages
+)
+
+===================
+ Mysql Error : Unknown column 't' in 'field list'
+16-03-2015
+Array
+(
+    [route] => admin
+    [user] => cozy_junior
+    [action] => pages
+)
+
+===================
+ Mysql Error : Unknown column 't' in 'field list'
+16-03-2015
+Array
+(
+    [route] => admin
+    [user] => cozy_junior
+    [action] => pages
+)
+
+===================
+ Mysql Error : Unknown column 't' in 'field list'
+16-03-2015
+Array
+(
+    [route] => admin
+    [user] => cozy_junior
+    [action] => pages
+)
+
+===================
+ Mysql Error : Unknown column 't' in 'field list'
+16-03-2015
+Array
+(
+    [route] => admin
+    [user] => cozy_junior
+    [action] => pages
+)
+
+===================
+ Mysql Error : Unknown column 't' in 'field list'
+16-03-2015
+Array
+(
+    [route] => admin
+    [user] => cozy_junior
+    [action] => pages
+)
+
+===================
+ Mysql Error : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'user_id = '1' id = '10' limit 1' at line 1
+16-03-2015
+Array
+(
+    [route] => action
+    [action] => load_design_pagebuilder
+    [token] => f51a47812cdb58b2f95eb48c96e5fed1
+    [id] => 10
+    [user] => 1
+)
+
+===================
+ Mysql Error : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+17-03-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => index
+)
+
+===================
+ Mysql Error : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+17-03-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => index
+)
+
+===================
+ Mysql Error : Unknown column 't' in 'field list'
+07-04-2015
+Array
+(
+    [route] => admin
+    [user] => cozy_junior
+    [action] => pages
+)
+
+===================
+ Mysql Error : Unknown column 'user.id' in 'on clause'
+16-04-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => testasd
+)
+
+===================
+ Mysql Error : Unknown column 'user.id' in 'on clause'
+23-04-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => default
+)
+
+===================
+ Mysql Error : Unknown column 'user.id' in 'on clause'
+23-04-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => images
+)
+
+===================
+ Mysql Error : Unknown column 'user.id' in 'on clause'
+23-04-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => fonts
+)
+
+===================
+ Mysql Error : Unknown column 'user.id' in 'on clause'
+23-04-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => images
+)
+
+===================
+ Mysql Error : Unknown column 'user.id' in 'on clause'
+23-04-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => images
+)
+
+===================
+ Mysql Error : Unknown column 'user.id' in 'on clause'
+23-04-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => images
+)
+
+===================
+ Mysql Error : Unknown column 'user.id' in 'on clause'
+23-04-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => images
+)
+
+===================
+ Mysql Error : Unknown column 'user.id' in 'on clause'
+23-04-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => images
+)
+
+===================
+ Mysql Error : Unknown column 'user.id' in 'on clause'
+23-04-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => images
+)
+
+===================
+ Mysql Error : Unknown column 'user.id' in 'on clause'
+23-04-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => images
+)
+
+===================
+ Mysql Error : Unknown column 'user.id' in 'on clause'
+23-04-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => images
+)
+
+===================
+ Mysql Error : Unknown column 'user.id' in 'on clause'
+23-04-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => images
+)
+
+===================
+ Mysql Error : Unknown column 'user.id' in 'on clause'
+23-04-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => images
+)
+
+===================
+ Mysql Error : Unknown column 'user.id' in 'on clause'
+23-04-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => images
+)
+
+===================
+ Mysql Error : Unknown column 'user.id' in 'on clause'
+23-04-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => images
+)
+
+===================
+ Mysql Error : Unknown column 'user.id' in 'on clause'
+23-04-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => images
+)
+
+===================
+ Mysql Error : Unknown column 'user.id' in 'on clause'
+23-04-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => images
+)
+
+===================
+ Mysql Error : Unknown column 'user.id' in 'on clause'
+23-04-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => images
+)
+
+===================
+ Mysql Error : Unknown column 'user.id' in 'on clause'
+23-04-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => images
+)
+
+===================
+ Mysql Error : Unknown column 'user.id' in 'on clause'
+23-04-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => images
+)
+
+===================
+ Mysql Error : Unknown column 'user.id' in 'on clause'
+25-04-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => images
+)
+
+===================
+ Mysql Error : Unknown column 'user.id' in 'on clause'
+25-04-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => images
+)
+
+===================
+ Mysql Error : Unknown column 'user.id' in 'on clause'
+25-04-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => images
+)
+
+===================
+ Mysql Error : Unknown column 'user.id' in 'on clause'
+25-04-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => images
+)
+
+===================
+ Mysql Error : Unknown column 'user.id' in 'on clause'
+25-04-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => images
+)
+
+===================
+ Mysql Error : Unknown column 'user.id' in 'on clause'
+25-04-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => images
+)
+
+===================
+ Mysql Error : Unknown column 'user.id' in 'on clause'
+28-04-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => images
+)
+
+===================
+ Mysql Error : Unknown column 'user.id' in 'on clause'
+28-04-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => images
+)
+
+===================
+ Mysql Error : Unknown column 'user.id' in 'on clause'
+28-04-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => images
+)
+
+===================
+ Mysql Error : Unknown column 'user.id' in 'on clause'
+28-04-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => images
+)
+
+===================
+ Mysql Error : Unknown column 'user.id' in 'on clause'
+28-04-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => images
+)
+
+===================
+ Mysql Error : Unknown column 'user.id' in 'on clause'
+28-04-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => images
+)
+
+===================
+ Mysql Error : Unknown column 'user.id' in 'on clause'
+08-05-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => images
+)
+
+===================
+ Mysql Error : Unknown column 'user.id' in 'on clause'
+08-05-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => images
+)
+
+===================
+ Mysql Error : Unknown column 'user.id' in 'on clause'
+08-05-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => images
+)
+
+===================
+ Mysql Error : Unknown column 'user.id' in 'on clause'
+08-05-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => images
+)
+
+===================
+ Mysql Error : Unknown column 'user.id' in 'on clause'
+08-05-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => images
+)
+
+===================
+ Mysql Error : Unknown column 'user.id' in 'on clause'
+08-05-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => images
+)
+
+===================
+ Mysql Error : Unknown column 'user.id' in 'on clause'
+08-05-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => testasd
+)
+
+===================
+ Mysql Error : Unknown column 'user.id' in 'on clause'
+08-05-2015
+Array
+(
+    [route] => page
+    [user] => 1
+    [action] => secondpage
+)
+
+===================
+ Mysql Error : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'index = '0' where user_id = '1'' at line 1
+08-05-2015
+Array
+(
+    [route] => action
+    [user] => 1
+)
+
+===================
+ Mysql Error : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'index = '0' where user_id = '1'' at line 1
+08-05-2015
+Array
+(
+    [route] => action
+    [user] => 1
+)
+

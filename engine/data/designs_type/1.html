@@ -1,0 +1,24 @@
+<script type='text/javascript'>
+$(function() {
+    $( "ul.module_list" ).sortable({
+      connectWith: "ul.holder_modules,ul.holder_modules.left"
+    }).disableSelection();    
+	
+	$( "ul.holder_modules" ).sortable({
+      connectWith: "ul.module_list,ul.holder_modules.left"
+    }).disableSelection();
+  });
+</script>				  
+
+
+				  <ul class='holder_modules left' style='width:20%'>
+					
+					
+					
+					</ul>
+					
+					<ul class='holder_modules center' style='width:78%;margin-left:1%;float:left'>
+					
+					
+					
+					</ul>
